@@ -1,14 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+    "data": [
+      {
+        "id": 860,
+        "firstName": "Superman",
+        "lastName": "Yoda"
+      },
+      {
+        "id": 870,
+        "firstName": "Foo",
+        "lastName": "Whateveryournameis"
+      },
+      {
+        "id": 590,
+        "firstName": "Toto",
+        "lastName": "Titi"
+      }
+    ]
   }
-}
